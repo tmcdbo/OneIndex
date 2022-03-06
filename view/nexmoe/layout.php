@@ -12,7 +12,7 @@
 <body class="mdui-theme-primary-blue-grey mdui-theme-accent-blue">
 	<header class="nav">
 		<div class="navSize">
-			<a href="/"><img class="avatar" src="//q.qlogo.cn/g?b=qq&nk=81895257&s=100"/></a>
+			<a href="/"><img class="avatar" src="//q.qlogo.cn/g?b=qq&nk=87018502&s=100"/></a>
 			<div class="navRight">
 				<ul class="navul">
 					<li class="navli"><a href="/" target="_blank">博客</a></li>
